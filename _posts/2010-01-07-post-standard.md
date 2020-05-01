@@ -1,9 +1,9 @@
 ---
-title: "Corps differentiels et flots géodésiques I: Un critère d'orthogonalité aux constantes"
+title: "Corps differentiels et flots géodésiques I: Orthogonalité aux constantes pour les équations différentielles autonomes"
 excerpt_separator: "<!--more-->"
-
+link: https://arxiv.org/abs/1612.06222v2
 ---
-To appear in Bull. de la SMF (2020)
+To appear in Bull. de la SMF (2020).
 
 Abstract: Orthogonality to the constants is property of an algebraic differential equation that originated from the model-theoretic study of differential fields and  that expresses remarkable independence properties for its solutions
 
