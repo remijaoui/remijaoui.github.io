@@ -1,0 +1,9 @@
+---
+title: "Differential fields and Geodesic flows II : Geodesic flows of pseudo-Riemannian algebraic varieties"
+excerpt_separator: "<!--more-->"
+link: https://link.springer.com/article/10.1007/s11856-018-1820-z
+---
+Israel Journal of Mathematics volume 230, pages 527–561(2019)
+
+Abstract: We define the notion of a smooth pseudo-Riemannian algebraic variety $(X,g)$ over a field k of characteristic 0, which is an algebraic analogue of the notion of Riemannian manifold and we study, from a model-theoretic perspective, the algebraic differential equation describing the geodesics on (X,g). 
+When k is the field of real numbers, we prove that if the real points of X are Zariski-dense in X and if the real analytification of (X,g) is a compact Riemannian manifold with negative curvature, then the algebraic differential equation describing the geodesics on (X,g) is absolutely irreducible and its generic type is orthogonal to the constants.
