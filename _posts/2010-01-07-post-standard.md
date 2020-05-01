@@ -3,10 +3,10 @@ title: "Corps differentiels et flots géodésiques I: Un critère d'orthogonalit
 excerpt_separator: "<!--more-->"
 
 ---
+To appear in Bull. de la SMF (2020)
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+Abstract: Orthogonality to the constants is property of an algebraic differential equation that originated from the model-theoretic study of differential fields and  that expresses remarkable independence properties for its solutions
 
-Mrs. Darling first heard of Peter when she was tidying up her children's minds. It is the nightly custom of every good mother after her children are asleep to rummage in their minds and put things straight for next morning, repacking into their proper places the many articles that have wandered during the day.
+In this article, we study the property of orthogonality to the constants in a differential algebraic language for autonomous differential equations and describe some effective methods to establish this property. The main result is a criterion for orthogonality to the constants (and its version for families) for real absolutely irreducible  D-varieties (X,v) based on the dynamical properties of the associated real analytic flow  (M,\phi).  More precisely, we show that if there exists  a compact region K of M, Zariski-dense in X and such that the restriction of the flow to K is topologically weakly mixing  then the generic type of (X,v) is orthogonal to the constants.
 
-<!--more-->
-
+This criterion will be applied in a second part to study from this model-theoretic point of view the geodesic flow of a compact Riemannian varieties (presented algebraically) with negative curvature. 
