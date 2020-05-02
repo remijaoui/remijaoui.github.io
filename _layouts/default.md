@@ -8,6 +8,9 @@
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
+
+
+
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
     {% include head.html %}
@@ -37,6 +40,12 @@
     </div>
 
     {% include scripts.html %}
+    {% if page.usemathjax %}
+<script type="text/javascript" async
+ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+{% end if %}
+
 
   </body>
 </html>
