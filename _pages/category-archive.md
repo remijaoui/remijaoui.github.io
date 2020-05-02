@@ -5,10 +5,6 @@ permalink: /papers/
 author_profile: true
 ---
 
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
 
 {% include group-by-array collection=site.posts field="categories" %}
 
