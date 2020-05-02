@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-{% if page.usemathjax %}
-<script type="text/javascript" async
- src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-  </script>
-{% end if %}
 
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
