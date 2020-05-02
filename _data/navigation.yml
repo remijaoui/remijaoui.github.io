@@ -5,7 +5,7 @@ main:
   - title: "Posts"
     url: /year-archive/
   - title: "Papers"
-    url: /collection-archive/
+    url: /papers/
   - title: "Talks"
     url: /sitemap/
   - title: "Teaching"
