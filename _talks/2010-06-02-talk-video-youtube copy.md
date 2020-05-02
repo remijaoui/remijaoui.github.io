@@ -2,6 +2,7 @@
 title: "Differential Algebra and Related Topics X"
 categories:
   - Talk
+permalink: /talks/talk1
 ---
 City University of New York
 
