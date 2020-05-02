@@ -41,6 +41,5 @@
 
     {% include scripts.html %}
 
-
   </body>
 </html>
