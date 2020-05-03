@@ -2,13 +2,7 @@
 title: "Publications and preprints"
 layout: archive
 permalink: /papers/
-sidebar:
-  - title: "Title"
-    image: "/images/remi.jpg"
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here.
+author_profile: true
 ---
 
 {% include group-by-array collection=site.posts field="categories" %}
