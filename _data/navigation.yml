@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "About me"
-    url: /index/
+    url: /
   - title: "Papers"
     url: /papers/
   - title: "Talks"
     url: /talks/
   - title: "Teaching"
-    url: /
+    url: /teaching/
 
 
 # sidebar navigation list sample
