@@ -6,7 +6,7 @@ author_profile: true
 
 
 My name is Rémi Jaoui and I am a visiting assistant professor in the University of Notre Dame. I am working at the interaction between model theory, a branch of mathematical logic and differential algebra. 
-Here is a recent <a href = /assets/pdf/"CV.pdf"> curriculum vitae </a> (in french).
+Here is a recent <a href = "/assets/pdf/CV.pdf"> curriculum vitae </a> (in french).
 
 
 ## Autonomous algebraic differential equations
