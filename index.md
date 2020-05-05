@@ -6,7 +6,7 @@ author_profile: true
 
 
 My name is Rémi Jaoui and I am a visiting assistant professor in the University of Notre Dame. I am working at the interaction between model theory, a branch of mathematical logic and differential algebra. 
-Here is a recent curriculum vitae (in french).
+Here is a recent <a href = /assets/pdf/"CV.pdf"> curriculum vitae </a> (in french).
 
 
 ## Autonomous algebraic differential equations
@@ -24,7 +24,7 @@ Some motivating questions on autonomous differential equations  \\( (X,v) \\) ar
 
 ## Geometric stability theory
 
-A characteristic feature of these questions is that they can be formulated in the language of geometric stability theory at the level of the definable set  associated to a differential equation \\( (X,v) \\)   in the theory \\( \textbf{DCF}_0\\). So my general strategy to study these questions is to establish first partial geometric answers and then amplify them using the tools of geometric stability theory. 
+A characteristic feature of these questions is that they can be formulated in the language of geometric stability theory at the level of the definable set  associated to a differential equation \\( (X,v) \\)   in the theory \\( \textbf{DCF}_0\\). So my general strategy to study these questions is to establish first partial geometric answers and then amplify them using tools of geometric stability theory. 
 
 From the point of view of model theory, motivating questions are:
 
