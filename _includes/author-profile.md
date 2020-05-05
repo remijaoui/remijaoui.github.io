@@ -57,7 +57,7 @@
         <li>
           <a href="mailto:{{ author.email }}">
             <meta itemprop="email" content="{{ author.email }}" />
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">{{ "Email: rjaoui@nd.edul" }}</span>
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">{{ "Email: rjaoui@nd.edu" }}</span>
           </a>
         </li>
       {% endif %}

@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/remi.png"
   bio              : "Visiting Assistant Professor in the University of Notre Dame"
   location         : "Office: Hurley 277"
-  email            : "rjaoui@nd.edu"
+  email            : # "rjaoui@nd.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square" 
