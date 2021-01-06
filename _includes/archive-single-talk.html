@@ -17,9 +17,9 @@
         <img src="{{ teaser | relative_url }}" alt="">
       </div>
     {% endif %}
-    <h3 class="archive__item-title" itemprop="headline">
+    <h4 class="archive__item-title" itemprop="headline">
         <a>{{ title }}</a>
-    </h3>
+    </h4>
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -27,7 +27,9 @@
     {% if post.location %}<p class="archive__item-excerpt" itemprop="description">  {{post.location}}</p> {% endif %}
 
     {% if post.video %}
-  <a href="{{ post.video}}">{{ Video }}</a>
+    <h4 class="archive__item-title" itemprop="headline">
+        <a>{{ post.video }}</a>
+    </h4>
     {% endif %}
   </article>
 </div>
