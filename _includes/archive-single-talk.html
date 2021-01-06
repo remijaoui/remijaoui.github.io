@@ -34,16 +34,5 @@
 {% if post.slides %}   <a href="{{post.slides}}">{{ "Slides" }}</a>{% endif %}
   </p>
   {% endif %}
-
-{% if post.video %}
-    <p class="archive__item-excerpt" itemprop="description">
-        <a href="{{post.video}}">{{ "Video" }}</a>
-    </p>
-    {% endif %}
-    {% if post.slides %}
-    <p class="archive__item-excerpt" itemprop="description">
-        <a href="{{post.slides}}">{{ "Slides" }}</a>
-    </p>
-    {% endif %}
   </article>
 </div>
