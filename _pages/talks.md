@@ -1,5 +1,5 @@
 ---
-title: "Selected talks"
+title: "Talks and conferences"
 layout: archive
 permalink: /talks/
 author_profile: true
