@@ -25,7 +25,17 @@
     {% endif %}
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     {% if post.location %}<p class="archive__item-excerpt" itemprop="description">  {{post.location}}</p> {% endif %}
-    {% if post.video %}
+    
+
+{% if post.detail %}
+   <p class="archive__item-excerpt" itemprop="description">
+{{post.detail}}
+{% if post.video %} <a href="{{post.video}}">{{ "Video" }}</a> {% endif %}
+{% if post.slides %}   <a href="{{post.slides}}">{{ "Slides" }}</a>{% endif %}
+  </p>
+  {% endif %}
+
+{% if post.video %}
     <p class="archive__item-excerpt" itemprop="description">
         <a href="{{post.video}}">{{ "Video" }}</a>
     </p>
