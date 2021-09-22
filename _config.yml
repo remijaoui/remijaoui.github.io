@@ -95,13 +95,16 @@ analytics:
 author:
   name             : "Rémi Jaoui"
   avatar           : "/assets/images/remi.png"
-  bio              : "Visiting Assistant Professor in the University of Notre Dame"
-  location         : "Office: Hurley 277"
-  email            : "rjaoui@nd.edu"
+  bio              : ""
+  location         : "Mathematisches Institut
+Albert-Ludwigs-Universität Freiburg
+Ernst-Zermelo-Str. 1
+79104 Freiburg"
+  email            : "remi.jaoui@math.uni-freiburg.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square" 
-      # url: "mailto:rjaoui@nd.edu"
+      # url: "mailto:remi.jaoui@math.uni-freiburg.de"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
