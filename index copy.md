@@ -22,6 +22,20 @@ Some motivating questions on autonomous differential equations  \\( (X,v) \\) ar
   * Given a finite collection of differential equations \\( (X_1,v_1), \ldots , (X_r,v_r) \\), can  \\((X,v)\\) be solved using only "classical functions" and solutions of \\( (X_1,v_1), \ldots , (X_r,v_r) \\) ? If it is possible, can it be achieved algorithmically?
    * Do the solutions of \\( (X,v) \\)  form large independent sets of  meromorphic functions or do they share many algebraic relations?  
 
+The ``classical functions'' contains in particular 
+To study these questions, an important picture is the following representation of the field of meromorphic \\( \mathcal M(U) \\) functions on an open set \\( U \subset \mathbb{C} \\)
+
+This picture should be understood as follows: 
+* On the horizon stand all the meromorphic functions which are differentially transcendental over the field \\( \mathbb{C}(t) \\) of rational functions of one variable. Such functions play no role in the resolution of algebraic differential equations with coefficients in  \\( \mathbb{C}(t) \\).
+
+* At our feet is the class \\( \mathcal C_0 \\) of classical meromorphic functions: containing all the rational functions, the exponential and logarithms of such functions, more generally all the Liouvillian functions of one variable. Furthermore, this class is closed under various integration procedures such as solving a linear differential equation and post-composing with an Abelian function. 
+
+The differential equations whose solutions live in the class \\( \mathcal C_0 \\)  are often analyzed by means of Kolchin's Galois theory. 
+
+
+* A bit further is the class \\( \mathcal C_1 \\) obtained by adding to the class of meromorphic functions all the functions solutions of algebraic differential equation of order one: in particular, all Pfaffian functions live in the class  \\( \mathcal C_1 \\) .
+
+* The higher order classes   \\( \mathcal C_n \\) for n \geq 2 contain the solutions of higher order algebraic differential equations which are in particular not Pfaffian nor Liouvillian.  
 
 ## Geometric stability theory
 
