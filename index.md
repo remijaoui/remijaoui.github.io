@@ -33,8 +33,6 @@ In the language of model theory, motivating questions are:
   * Develop effective tools to study the generic solutions of algebraic differential equation using geometric linearization data along a known particular solution.
   * Study the variations of the semi-minimal analysis of a differential equations in families.
   
- A central notion that was brought to the first plan is the notion of modularity 
-  
 
   
   
