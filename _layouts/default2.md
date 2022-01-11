@@ -25,7 +25,7 @@
           src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
   </script>
     <div class="initial-content">
-    <h4>  {{ content }} </h4>
+  {{ content }} 
     </div>
 
     {% if site.search == true %}
