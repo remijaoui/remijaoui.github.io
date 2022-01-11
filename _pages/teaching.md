@@ -29,5 +29,5 @@ author_profile: true
 
 ## Teaching assistant in the University of Freiburg (2021-2022)
 
-* Teaching assistant fo the course Bewertete Körper. 
-* Exercise sessions for the course Logik für Studierende der Informatik.
+* Fall 2021: Teaching assistant fo the course Bewertete Körper. 
+* Fall 2021: Exercise sessions for the course Logik für Studierende der Informatik.
