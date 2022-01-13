@@ -4,8 +4,9 @@ layout: archive
 permalink: /teaching/
 author_profile: true
 ---
-
-
+ dl {
+    font-size: 0.8em;
+  
 
 ## Teaching assistant in Orsay University (2014-2017)
 
@@ -30,4 +31,4 @@ author_profile: true
 ## Teaching assistant in the University of Freiburg (2021-2022)
 
 * Fall 2021: Teaching assistant fo the course Bewertete Körper. 
-* Fall 2021: Exercise sessions for the course Logik für Studierende der Informatik.
+* Fall 2021: Exercise sessions for the course Logik für Studierende der Informatik.}
