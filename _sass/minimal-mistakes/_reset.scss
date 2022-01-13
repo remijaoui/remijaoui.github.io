@@ -22,8 +22,8 @@ html {
     font-size: 22px;
   }
 
-  -webkit-text-size-adjust: 80%;
-  -ms-text-size-adjust: 80%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
 }
 
 /* Remove margin */
@@ -136,7 +136,7 @@ input,
 select,
 textarea {
   margin: 0;
-  font-size: 80%;
+  font-size: 100%;
   vertical-align: middle;
 }
 
