@@ -97,6 +97,7 @@ author:
   avatar           : "/assets/images/remi.png"
   bio              : "Chargé de recherche"
   location         : "Institut Camille Jordan"
+  location2        : "Lyon, France"
   email            : "nom@math.univ-lyon1.fr"
   links:
     - label: "Email"
