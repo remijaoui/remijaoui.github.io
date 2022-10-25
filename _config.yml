@@ -95,16 +95,13 @@ analytics:
 author:
   name             : "Rémi Jaoui"
   avatar           : "/assets/images/remi.png"
-  bio              : ""
-  location         : "Mathematisches Institut<br>
-Albert-Ludwigs-Universität<br>
-Ernst-Zermelo-Str. 1 <br>
-79104 Freiburg"
-  email            : "remi.jaoui@math.uni-freiburg.de"
+  bio              : "Chargé de recherche"
+  location         : "Institut Camille Jordan"
+  email            : "nom@math.univ-lyon1.fr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square" 
-      # url: "mailto:remi.jaoui@math.uni-freiburg.de"
+      # url: "mailto:nom@math.univ-lyon1.fr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
