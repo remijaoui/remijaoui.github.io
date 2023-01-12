@@ -6,7 +6,6 @@ author_profile: true
 
 
 My name is Rémi Jaoui and I am a researcher working in the Institut Camille Jordan of the Université Claude Bernard Lyon 1 on the interaction between model theory, a branch of mathematical logic, and differential algebra. 
-Here is a recent <a href = "/assets/pdf/CV.pdf"> curriculum vitae </a>.
 
 
 ## Autonomous algebraic differential equations
