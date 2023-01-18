@@ -12,7 +12,7 @@ Previously, I was a postdoc in the <a href="https://logik.mathematik.uni-freibur
  
 I defended my PhD on June 2017 in <a href="https://www.imo.universite-paris-saclay.fr/en/"> the University of Orsay </a> under the supervision of Jean-Benoît Bost and Martin Hils. 
 
-To contact me, you can use the email adress <i>name<\i>@math.univ-lyon1.fr where <i>name<\i> is replaced by my last name. 
+To contact me, you can use the email adress <i>name</i>@math.univ-lyon1.fr where <i>name</i> is replaced by my last name. 
 
 
 ## Autonomous algebraic differential equations
