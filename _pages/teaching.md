@@ -28,7 +28,7 @@ More information about the location of each of the rooms can be found <a href="h
 
 ## Lecture notes
 
-* Lecture 1. [Motivation](\assets/pdf/introduction.pdf)
+* Lecture 1. [Motivation](\assets/pdf/Introduction.pdf)
 * Lecture 2. [Ritt-Raudenbush theory](\assets/pdf/Ritt-theory.pdf)
 
 ## Références 
