@@ -21,7 +21,9 @@ The lectures take place on the Fridays from 9.45am to 11.15am and from 11.30am t
 * Lectures 13/14  on 08/03/2024. Location:  Braconnier Séminaire 1
 * Lectures 15/16  on 15/03/2024. Location:  Braconnier Séminaire 1
 
-More information about the location of each of the room can be found [here](https://www.univ-lyon1.fr/campus/plan-des-campus/campus-lyontech-la-doua
+More information about the location of each of the room can be found <a href="https://www.univ-lyon1.fr/campus/plan-des-campus/campus-lyontech-la-doua
+"> here </a>
+
 
 ## Lecture notes
 
