@@ -6,28 +6,26 @@ author_profile: true
 ---
 
   
+# Information regarding the course Model Theory of differential fields in characteristic zero.
 
-## Teaching assistant in Orsay University (2014-2017)
+## Practical information
 
-* Linear algebra for second year students (L2) during three semesters. 
-* Algebra for third year students (L3) during three semesters
+The lectures take place on the Fridays from 9.45am to 11.15am and from 11.30am to 1.00 pm with a fifteen minutes break in the middle. The rooms for each lecture is indicated below. Be careful the room change with the lectures.
+ 
+* Lectures 1/2 on 12/01/2024. Location: Quai 43, s.104 (1er étage) 
+* Lectures 3/4 on 19/01/2024. Location: Darwin D71 (RDC) 
+* Lectures 5/6  on 26/01/2024. Location: Braconnier Séminaire 1
+* Lectures 7/8  on 02/02/2024. Location: Darwin C salle Caullery (RDC)
+* Lectures 9/10  on 09/02/2024. Location: Darwin C salle Caullery (RDC)
+* Lectures 11/12  on 23/02/2024. Location: Darwin C salle Caullery (RDC)
+* Lectures 13/14  on 08/03/2024. Location:  Braconnier Séminaire 1
+* Lectures 15/16  on 15/03/2024. Location:  Braconnier Séminaire 1
 
-## Instructor in the University of Waterloo (2017-2019)
+More information about the location of each of the room can be found [here](https://www.univ-lyon1.fr/campus/plan-des-campus/campus-lyontech-la-doua
 
-* Fall 2017: Algebra for honours mathematics (MATH135).
-* Spring 2018: Calculus 3, non-specialist level (MATH207).
-* Fall 2018: Introduction to mathematical logic (PMATH330).
-* Winter 2018: Calculus 3, non-specialist level (MATH207).
+## Lecture notes
 
-## Instructor in the University of Notre Dame (2019-2021)
+* Lecture 1. Introduction
+* Lecture 2. Ritt-Raudenbush theory
 
-* Fall 2019: Calculus A for the Life and Social Sciences  (MATH10350). 
-* Spring 2020: Calculus B for the Life and Social Sciences (MATH10360). 
-* Fall 2020: Calculus B for the life and Social Sciences (MATH10360). 
-* Spring 2021: Beginning Logic (MATH10130)
-
-
-## Teaching assistant in the University of Freiburg (2021-2022)
-
-* Fall 2021: Teaching assistant fo the course Bewertete Körper. 
-* Fall 2021: Exercise sessions for the course Logik für Studierende der Informatik.
+## Références 
