@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 layout: archive
-permalink: /teaching/
+permalink: /teaching2021/
 author_profile: true
 ---
 
