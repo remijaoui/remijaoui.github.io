@@ -28,12 +28,12 @@ More information about the location of each of the rooms can be found <a href="h
 
 ## Lecture notes
 
-* Lecture 1. Introduction
-* Lecture 2. Ritt-Raudenbush theory
+* Lecture 1. [Motivation](\assets/pdf/introduction.pdf)
+* Lecture 2. [Ritt-Raudenbush theory](\assets/pdf/Ritt-theory.pdf)
 
 ## Références 
-* David Marker, Model Theory of differential fields (second chapter of the book Model Theory of fields)[ pdf file](\assets/pdf/Marker.pdf)
-* Rosenlicht, On Liouville theory of elementary functions,  Pacific Journal of Mathematics, Vol. 65, No. 2, 1976.
+* David Marker, Model Theory of differential fields (second chapter of the book Model Theory of fields)[ pdf](\assets/pdf/Marker.pdf).
+* Rosenlicht, On Liouville theory of elementary functions,  Pacific Journal of Mathematics, Vol. 65, No. 2, 1976. [pdf](\assets/pdf/Rosenlicht.pdf).
 * Bouscaren E., Model Theory and Algebraic Geometry, Lecture notes in Mathematics <a href="https://link.springer.com/book/10.1007/978-3-540-68521-0"> link </a>.
 
 
