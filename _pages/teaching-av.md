@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 layout: archive
-permalink: /teaching/
+permalink: /teaching2/
 author_profile: true
 ---
 
@@ -31,7 +31,13 @@ More information about the location of each of the rooms can be found <a href="h
 * Lecture 1. [Motivation](\assets/pdf/Introduction.pdf)
 * Lecture 2. [Ritt-Raudenbush theory](\assets/pdf/Ritt-theory.pdf)
 * Lecture 3. [Differentially closed fields](\assets/pdf/DCF.pdf)
-* Lecture 4. [Seidenberg embedding Theorem](\assets/pdf/Seidenberg.pdf)
+* Lecture 4. [The Seidenberg embedding Theorem](\assets/pdf/Seidenberg.pdf)
+* Lecture 5. [Space of one-forms of a differential field extension](\assets/pdf/1-form.pdf)
+* Lecture 6. [Rosenlicht lemma and Ax Theorem](\assets/pdf/ax.pdf)
+* Homework. A theorem of Liouville about integration.
+* Lecture 7. [The canonical base property](\assets/pdf/CBP.pdf)
+* Lecture 8. [Differential algebraic groups](\assets/pdf/dcf-group.pdf)
+*Lecture  9.  [Strongly minimal sets and Zilber trichotomy](\assets/pdf/Zilber.pdf)
 
 ## Références 
 * David Marker, Model Theory of differential fields (second chapter of the book Model Theory of fields)[ pdf](\assets/pdf/Marker.pdf).
