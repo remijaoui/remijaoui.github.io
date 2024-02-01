@@ -14,13 +14,13 @@ Information regarding the course Model Theory of differential fields in characte
 The lectures take place on the Fridays from 9.45am to 11.15am and from 11.30am to 1.00 pm with a fifteen minutes break in the middle. The rooms for each lecture are indicated below. Be careful the room change with the lectures.
  
 * Lectures 1/2 on 12/01/2024. Quai 43, s.104 (1er étage) 
-* Lectures 3/4 on 19/01/2024. Darwin D71 (RDC) 
-* Lectures 5/6  on 26/01/2024.  Braconnier Séminaire 1
-* Lectures 7/8  on 02/02/2024.  Darwin C salle Caullery (RDC)
-* Lectures 9/10  on 09/02/2024. Darwin C salle Caullery (RDC)
-* Lectures 11/12  on 23/02/2024. Darwin C salle Caullery (RDC)
-* Lectures 13/14  on 08/03/2024.  Braconnier Séminaire 1
-* Lectures 15/16  on 15/03/2024.  Braconnier Séminaire 1
+* Lectures 2/3 on 19/01/2024. Darwin D71 (RDC) 
+* Lectures 3  on 26/01/2024.  Braconnier Séminaire 1
+* Lectures 4/5  on 02/02/2024.  Darwin C salle Caullery (RDC)
+* Lectures 5/6  on 09/02/2024. Darwin C salle Caullery (RDC)
+* Lectures 6/7  on 23/02/2024. Darwin C salle Caullery (RDC)
+* Lectures 8  on 08/03/2024.  Braconnier Séminaire 1
+* Lectures 9 on 15/03/2024.  Braconnier Séminaire 1
 
 More information about the location of each of the rooms can be found <a href="https://www.univ-lyon1.fr/campus/plan-des-campus/campus-lyontech-la-doua
 "> here </a>.
@@ -32,6 +32,7 @@ More information about the location of each of the rooms can be found <a href="h
 * Lecture 2. [Ritt-Raudenbush theory](\assets/pdf/Ritt-theory.pdf)
 * Lecture 3. [Differentially closed fields](\assets/pdf/DCF.pdf)
 * Lecture 4. [Seidenberg embedding Theorem](\assets/pdf/Seidenberg.pdf)
+* Lecture 5. [Differential forms](\assets/pdf/differential-forms.pdf)
 
 ## Références 
 * David Marker, Model Theory of differential fields (second chapter of the book Model Theory of fields)[ pdf](\assets/pdf/Marker.pdf).
