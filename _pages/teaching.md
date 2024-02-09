@@ -33,8 +33,10 @@ More information about the location of each of the rooms can be found <a href="h
 * Lecture 3. [Differentially closed fields](\assets/pdf/DCF.pdf)
 * Lecture 4. [Seidenberg embedding Theorem](\assets/pdf/Seidenberg.pdf)
 * Lecture 5. [Differential forms](\assets/pdf/differential-forms.pdf)
+* Homework [Homework] (\assets/pdf/homework.pdf) due on March 8th
+ 
 
-## Références 
+## References 
 * David Marker, Model Theory of differential fields (second chapter of the book Model Theory of fields)[ pdf](\assets/pdf/Marker.pdf).
 * Rosenlicht, On Liouville theory of elementary functions,  Pacific Journal of Mathematics, Vol. 65, No. 2, 1976. [pdf](\assets/pdf/Rosenlicht.pdf).
 * Bouscaren E., Model Theory and Algebraic Geometry, Lecture notes in Mathematics <a href="https://link.springer.com/book/10.1007/978-3-540-68521-0"> link </a>.
