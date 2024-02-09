@@ -33,7 +33,7 @@ More information about the location of each of the rooms can be found <a href="h
 * Lecture 3. [Differentially closed fields](\assets/pdf/DCF.pdf)
 * Lecture 4. [Seidenberg embedding Theorem](\assets/pdf/Seidenberg.pdf)
 * Lecture 5. [Differential forms](\assets/pdf/differential-forms.pdf)
-* Homework [Homework] (\assets/pdf/homework.pdf) due on March 8th
+* Homework. [Homework](\assets/pdf/homework.pdf) due on March 8th
  
 
 ## References 
