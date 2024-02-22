@@ -34,7 +34,7 @@ More information about the location of each of the rooms can be found <a href="h
 * Lecture 4. [Seidenberg embedding Theorem](\assets/pdf/Seidenberg.pdf)
 * Lecture 5. [Differential forms](\assets/pdf/differential-forms.pdf)
 * Homework. [Homework](\assets/pdf/homework.pdf) due on March 8th
- 
+* Lecture 6. [The Ax-Schanuel Theorem](\assets/pdf/Ax-Schanuel.pdf)
 
 ## References 
 * David Marker, Model Theory of differential fields (second chapter of the book Model Theory of fields)[ pdf](\assets/pdf/Marker.pdf).
