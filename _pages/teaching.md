@@ -42,6 +42,25 @@ More information about the location of each of the rooms can be found <a href="h
 * Bouscaren E., Model Theory and Algebraic Geometry, Lecture notes in Mathematics <a href="https://link.springer.com/book/10.1007/978-3-540-68521-0"> link </a>.
 
 
+## Oral examination
 
+For the oral examination, you will have to choose and present one of the following subject (out of three randomly picked subjects) in the following list
 
+* Prime differential ideals of differential polynomials (Lecture 2)
+* Radical differential ideals of differential polynomials (Lecture 2)
+* Elimination of quantifiers in the theory of differentially closed fields and consequences (Lecture 3)
+* Elimination of imaginaries in the theory of differentially closed fields (Lecture 3) 
+* The Seidenberg embedding Theorem (Lecture 4)
+* Algebraic properties of differential forms (Lecture 5)
+* The Galois-theoretic proof of the functional Lindermann-Weierstrass Theorem (Lecture 1)
+* The Liouville-Rosenlicht Theorem (Lecture 6)
+* The Ax-Schanuel Theorem (Lecture 6)
 
+The oral examinations will take place on Tuesday March 26th from 1pm to 6.30pm in room ?? based on the following schedule.
+* 1.15pm to 2pm: Youssef
+* 2pm to 2.45pm: Alexandre
+* 2.45pm to 3.30pm: Yoann
+* 3.30pm to 4.15pm: Enzo
+* 4.15pm to 5pm: Quang-Khai
+
+Please come 10 minutes before the start of your oral exam.
