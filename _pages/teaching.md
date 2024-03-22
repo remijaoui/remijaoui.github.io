@@ -56,7 +56,7 @@ For the oral examination, you will have to choose and present one of the followi
 * The Liouville-Rosenlicht Theorem (Lecture 6)
 * The Ax-Schanuel Theorem (Lecture 6)
 
-The oral examinations will take place on Tuesday March 26th from 1pm to 6.30pm in room ?? based on the following schedule.
+The oral examinations will take place on Tuesday March 26th from 1pm to 6.30pm in room Berthollet 126 (1er étage) based on the following schedule.
 * 1.15pm to 2pm: Youssef
 * 2pm to 2.45pm: Alexandre
 * 2.45pm to 3.30pm: Yoann
