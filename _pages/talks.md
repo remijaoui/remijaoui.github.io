@@ -17,7 +17,7 @@ I have been working during the last two years with Jonathan Kirby on the problem
 
 ## On the density of strongly minimal algebraic vector fields
 
-The notion of strong minimality is without doubt one of the main contribution of model theory to differential algebra. In this preprint (2023), I show that "most" algebraic vector fields do satisfy this property. Together with a paper of Devilbiss and Freitag, this answers a long standing open question formulated by Poizat around 1981.
+The notion of strong minimality is without doubt one of the main contribution of model theory to differential algebra. In this [preprint](https://arxiv.org/abs/2301.06362) (2023), I show that "most" algebraic vector fields do satisfy this property. Together with a paper of Devilbiss and Freitag, this answers a long standing open question formulated by Poizat around 1981.
 
 * The [talk]( /assets/pdf/DART2022.pdf) was part of the DART XI conference in London, England (July 2023).
 
