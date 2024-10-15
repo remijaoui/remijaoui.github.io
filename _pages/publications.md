@@ -46,7 +46,7 @@ It is shown that a complex differential equation of dimension three which induce
 
 It is shown that the generic type of the geodesic differential equations describing a compact real-algebraic manifold of negative curvature is orthogonal to the constants. Existence of such real-algebraic manifolds is established.
 
-* _Differential fields and geodesic flows I - Orthogonality to the constants for autonomous differential equations [arXiv](https://arxiv.org/abs/1612.06222)_ (in french) [arXiv](https://arxiv.org/abs/1612.06222) Published in Bulletin de la Société Mathématiques de France Vol 148 (2020) no. 3, pp. 529–595.
+* _Differential fields and geodesic flows I - Orthogonality to the constants for autonomous differential equations_ (in french) [arXiv](https://arxiv.org/abs/1612.06222) Published in Bulletin de la Société Mathématiques de France Vol 148 (2020) no. 3, pp. 529–595.
 
 It is shown that a complex differential equation of dimension three which induces on some compact connected component of the real locus a weakly mixing topological flow is orthogonal to the constants.
 
