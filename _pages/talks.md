@@ -53,7 +53,7 @@ In several of my papers, an important idea is that one can use complex holomorph
 * This talk (CIRM, Brazil-France School on Foliation Theory, 2024) presents a self-contained proof of the Ax-Schanuel Theorem in the language of holomorphic foliations.
 
 
-{% include video id="xpQfHBgbrpY&list=PLBNfdZUo7fyqte_AgfZPrRuHQo9e1hReE&index=6" provider="youtube" %}
+{% include video id="xpQfHBgbrpY" provider="youtube" %}
 
 
 
