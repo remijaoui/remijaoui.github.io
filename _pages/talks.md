@@ -6,15 +6,16 @@ author_profile: true
 ---
 
 
-{% assign postsByYear = site.talks | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-{% for year in postsByYear %}
-  <section id="{{ year.name }}" class="taxonomy__section">
-    <h2 class="archive__subtitle">{{ year.name }}</h2>
-    <div class="entries-{{ page.entries_layout | default: 'list' }}">
-      {% for post in year.items %}
-        {% include archive-single-talk.html type=page.entries_layout %}
-      {% endfor %}
-    </div>
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-  </section>
-{% endfor %}
+# On the problem of integration in finite terms for exponentially algebraic functions
+
+I have been working during the last two years with Jonathan Kirby on the problem of integration in finite terms for exponentially algebraic functions. The paper is still in preparation but here are the slides of two talks below summarize the main ideas of this work. 
+
+* The talk was part of the DART XII conference in Kassel, Germany (April 2024)
+* The talks was part of the Model Theory and Applications to Groups and Combinatorics conference in the CIRM (October 2024)
+
+
+
+
+
+
+
