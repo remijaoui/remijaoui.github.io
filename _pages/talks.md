@@ -10,8 +10,8 @@ author_profile: true
 
 I have been working during the last two years with Jonathan Kirby on the problem of integration in finite terms for exponentially algebraic functions. The paper is still in preparation but here are the slides of two talks below summarize the main ideas of this work. 
 
-* The talk was part of the DART XII conference in Kassel, Germany (April 2024)
-* The talks was part of the Model Theory and Applications to Groups and Combinatorics conference in the CIRM (October 2024)
+* The [talk] ( /assets/pdf/DART2023.pdf) was part of the DART XII conference in Kassel, Germany (April 2024)
+* The [talk] ( /assets/pdf/CIRM2024.pdf)  was part of the Model Theory and Applications to Groups and Combinatorics conference in the CIRM (October 2024)
 
 
 
@@ -30,7 +30,7 @@ A full video of a lecture given at the Kolchin seminar of differential algebra o
 
 ## When any three solutions are independent
 
-Given an algebraic differential equation, what is the minimal number n of solutions I have look at if I want to conclude that any sequence of solutions of this equation is algebraically independent?
+Given an algebraic differential equation, what is the minimal number n of solutions that I have look at if I want to conclude that any sequence of solutions of this equation is algebraically independent?
 
 This is the kind of questions that led James Freitag and Rahim Moosa to introduce the nonminimality degree of a type here. In these two papers (the nonminimality degree is at most two and when any three solutions are independent) written with James Freitag and Rahim Moosa, we show that n = 3 is enough and that actually one can even take n = 2 if the equation is autonomous!
 
@@ -38,7 +38,10 @@ A detailed account of this result can be found in the [talk](http://www.fields.u
 
 ## Some definable Galois theory of compact complex manifolds
 
-The formulation os Pillay's definable Galois theory 
+Pillay's formulation of definable Galois theory allows to develop a definable Galois in the theory of compact complex manifolds analogous to the usual differential Galois theory. In Abelian reductions  with Rahim Moosa, we use this idea to prove Galois-theoretic generalizations of several results of Fujiki concerning the bimeromorphic classification of compact complex manifolds.
+
+Here is a talk given at the Notre Dame logic seminar which explains the basis of this variant of differential Galois theory.  
+
 
 ## Model theory of geodesic differential equations
 
