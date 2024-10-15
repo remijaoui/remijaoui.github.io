@@ -44,6 +44,19 @@ Pillay's formulation of definable Galois theory allows to develop a definable Ga
 Here is a [talk]( /assets/pdf/ND3.pdf) given at the Notre Dame logic seminar which explains the one-dimensional case of this variant of differential Galois theory.  
 
 
+## Foliations and webs in model theory
+
+In several of my papers, an important idea is that one can use complex holomorphic foliations to perform effectively some of the model-theoretic calculus. The investigation of a wider connection between the two subjects is a long-term goal of my research. Here are two examples
+
+* The [talk]( /assets/pdf/ND2.pdf) (Notre Dame, 2020) concerns the semi-minimal analysis of two-dimensional types in CCM and DCF_0.
+
+* This talk (CIRM, Brazil-France School on Foliation Theory, 2024) presents a self-contained proof of the Ax-Schanuel Theorem in the language of holomorphic foliations.
+
+
+{% include video id="xpQfHBgbrpY&list=PLBNfdZUo7fyqte_AgfZPrRuHQo9e1hReE&index=6" provider="youtube" %}
+
+
+
 ## Model theory of geodesic differential equations
 
 This is a subject I did not work on for a long time. The central problem is to study from the perpective of differential algebra and model theory, the geodesic differential equations describing the geodesics of real-algebraic Riemannian manifolds. 
