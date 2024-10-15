@@ -17,21 +17,25 @@ I have been working during the last two years with Jonathan Kirby on the problem
 
 ## On the density of strongly minimal algebraic vector fields
 
-Here is a link to a preprint which concerns the construction of many strongly minimal algebraic vector fields. Together with a paper of Devilbiss and Freitag, this answers a long standing open questions formulated by Poizat around 1981.
+The notion of strong minimality is without doubt one of the main contribution of model theory to differential algebra. In this preprint (2023), I show that "most" algebraic vector fields do satisfy this property. Together with a paper of Devilbiss and Freitag, this answers a long standing open question formulated by Poizat around 1981.
 
 * The talk was part of the DART XI conference in London, England (July 2023)
 * The talks was part of the Model Theory conference in the Wroclaw (September 2023)
 
 A full video of a lecture given at the Kolchin seminar of differential algebra on this article  can be found here
 
-<iframe src="https://www.youtube.com/watch?v=9ob2M6ERjR4" width="560" height="315" frameborder="0"> </iframe>
+{% include video id="9ob2M6ERjR4" provider="youtube" %}
 
 
 
 
 ## When any three solutions are independent
 
-How many solutions did 
+Given an algebraic differential equation, what is the minimal number n of solutions I have look at if I want to conclude that any sequence of solutions of this equation is algebraically independent?
+
+This is the kind of questions that led Freitag and Moosa to introduce the nonminimality degree of a type here. In these two papers (the nonminimality degree is at most two and when any three solutions are independent) written with J. Freitag and R. Moosa, we show that n = 3 is enough and that actually one can even take n = 2 if the equation is autonomous!
+
+
 
 ## Some differential Galois theory of compact complex manifolds
 
