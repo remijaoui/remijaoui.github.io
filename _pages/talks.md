@@ -28,15 +28,16 @@ A full video of a lecture given at the Kolchin seminar of differential algebra o
 
 
 
-
 ## When any three solutions are independent
 
 Given an algebraic differential equation, what is the minimal number n of solutions I have look at if I want to conclude that any sequence of solutions of this equation is algebraically independent?
 
-This is the kind of questions that led Freitag and Moosa to introduce the nonminimality degree of a type here. In these two papers (the nonminimality degree is at most two and when any three solutions are independent) written with J. Freitag and R. Moosa, we show that n = 3 is enough and that actually one can even take n = 2 if the equation is autonomous!
+This is the kind of questions that led James Freitag and Rahim Moosa to introduce the nonminimality degree of a type here. In these two papers (the nonminimality degree is at most two and when any three solutions are independent) written with James Freitag and Rahim Moosa, we show that n = 3 is enough and that actually one can even take n = 2 if the equation is autonomous!
 
+A detailed account of this result can be found in the talk: http://www.fields.utoronto.ca/talks/When-any-three-solutions-are-independent given by Rahim Moosa as one of the special lectures in honor of Anand Pillay's 70th birthday (Fields Institute, 2021).
 
+## Some definable Galois theory of compact complex manifolds
 
-## Some differential Galois theory of compact complex manifolds
+The formulation os Pillay's definable Galois theory 
 
 ## Model theory of geodesic differential equations
