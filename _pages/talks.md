@@ -19,7 +19,7 @@ I have been working during the last two years with Jonathan Kirby on the problem
 
 The notion of strong minimality is without doubt one of the main contribution of model theory to differential algebra. In this preprint (2023), I show that "most" algebraic vector fields do satisfy this property. Together with a paper of Devilbiss and Freitag, this answers a long standing open question formulated by Poizat around 1981.
 
-* The talk was part of the DART XI conference in London, England (July 2023)
+* The [talk]( /assets/pdf/slides-EFI.pdf) was part of the DART XI conference in London, England (July 2023)
 * The talks was part of the Model Theory conference in the Wroclaw (September 2023)
 
 A full video of a lecture given at the Kolchin seminar of differential algebra on this article  can be found here
@@ -41,3 +41,7 @@ A detailed account of this result can be found in the [talk](http://www.fields.u
 The formulation os Pillay's definable Galois theory 
 
 ## Model theory of geodesic differential equations
+
+This is a subject I did not work on for a long time. The central problem is to study from the perpective of differential algebra and model theory, the geodesic differential equations describing the geodesics of real-algebraic Riemannian manifolds. 
+
+The state of the art on this question is presented in these slides given at the 
