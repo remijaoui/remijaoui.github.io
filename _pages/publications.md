@@ -5,12 +5,15 @@ permalink: /papers/
 author_profile: true
 ---
 
-{% include group-by-array collection=site.posts field="categories" %}
+## Preprints
 
-{% for category in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
-  {% for post in posts %}
-    {% include archive-single-publ.html %}
-  {% endfor %}
-{% endfor %}
+* _On the density of strongly minimal algebraic vector fields_, (arXiv)[] , 51 pages (submitted)
+
+
+## Publications
+
+* On the density of strongly minimal algebraic vector fields, (arXiv)[] , 51 pages (submitted)
+
+It is shown that ''most'' complex algebraic vector fields define strongly minimal and geometrically trivial differential equations.  
+
+* On the density of strongly minimal algebraic vector fields, (arXiv)[] , 51 pages (submitted)
