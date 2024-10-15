@@ -19,8 +19,7 @@ I have been working during the last two years with Jonathan Kirby on the problem
 
 The notion of strong minimality is without doubt one of the main contribution of model theory to differential algebra. In this preprint (2023), I show that "most" algebraic vector fields do satisfy this property. Together with a paper of Devilbiss and Freitag, this answers a long standing open question formulated by Poizat around 1981.
 
-* The [talk]( /assets/pdf/slides-EFI.pdf) was part of the DART XI conference in London, England (July 2023)
-* The talk was part of the Model Theory conference in the Wroclaw (September 2023)
+* The [talk]( /assets/pdf/DART2022.pdf) was part of the DART XI conference in London, England (July 2023).
 
 A full video of a lecture given at the Kolchin seminar of differential algebra on this article  can be found here
 
@@ -50,7 +49,7 @@ In several of my papers, an important idea is that one can use complex holomorph
 
 * The [talk]( /assets/pdf/ND2.pdf) (Notre Dame, 2020) concerns the semi-minimal analysis of two-dimensional types in CCM and DCF_0.
 
-* This talk (CIRM, Brazil-France School on Foliation Theory, 2024) presents a self-contained proof of the Ax-Schanuel Theorem in the language of holomorphic foliations.
+*This lecture (CIRM, Brazil-France School on Foliation Theory, 2024) presents a proof of the Ax-Schanuel Theorem in the language of holomorphic foliations.
 
 
 {% include video id="xpQfHBgbrpY" provider="youtube" %}
