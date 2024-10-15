@@ -22,6 +22,31 @@ We prove Galois-theoretic generalizations of several results of Fujiki concernin
 We study the equations of Poizat from the perspective of geometric stability theory and obtain a full classification of the algebraic relations between solutions of such equations
 
 
-* _The degree of nonminimality is at most two_ with James Freitag and Rahim Moosa, 
+* _The degree of nonminimality is at most two_ with James Freitag and Rahim Moosa. [arXiv](https://arxiv.org/abs/2206.13450) Published in Journal of Mathematical Logic, Vol. 23 (2023), no. 3, Paper No. 2250031, 6 pp.
 
-* On the density of strongly minimal algebraic vector fields, (arXiv)[] , 51 pages (submitted)
+We show that in the theory DCF_0, if p is a type of Lascar rank greater or equal to two, then there are two realisations of p such that p has a forking nonalgebraic extension over these two realisations. 
+
+* _Relative internality and definable fibrations_ with Léo Jimenez and Anand Pillay. [arXiv](https://arxiv.org/abs/2009.06014). Published in Advances in Mathematics Vol. 415 (2023), Paper No. 108870, 38 pp.
+
+We prove that in a theory of finite rank, given a minimal C-internal fibration of types with a base orthogonal to the constants then the fibration is uniformly internal to the constants if and only if it splits as a direct product.
+
+* _When any three solutions are independent_ with James Freitag and Rahim Moosa. [arXiv](https://arxiv.org/abs/2110.08123) Published in Inventiones Mathematicae Vol. 230 (2022) no.3, pp. 1249-1265.
+
+Given an algebraic differential equation of order greater than one, it is shown that if there is any nontrivial algebraic relation amongst any number of distinct nonalgebraic solutions, along with their derivatives, then there is already such a relation between three solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
