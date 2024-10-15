@@ -34,7 +34,7 @@ Given an algebraic differential equation, what is the minimal number n of soluti
 
 This is the kind of questions that led James Freitag and Rahim Moosa to introduce the nonminimality degree of a type here. In these two papers (the nonminimality degree is at most two and when any three solutions are independent) written with James Freitag and Rahim Moosa, we show that n = 3 is enough and that actually one can even take n = 2 if the equation is autonomous!
 
-A detailed account of this result can be found in the talk: http://www.fields.utoronto.ca/talks/When-any-three-solutions-are-independent given by Rahim Moosa as one of the special lectures in honor of Anand Pillay's 70th birthday (Fields Institute, 2021).
+A detailed account of this result can be found in the [talk](http://www.fields.utoronto.ca/talks/When-any-three-solutions-are-independent) given by Rahim Moosa as one of the special lectures in honor of Anand Pillay's 70th birthday (Fields Institute, 2021).
 
 ## Some definable Galois theory of compact complex manifolds
 
