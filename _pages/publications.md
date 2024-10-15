@@ -34,19 +34,21 @@ We prove that in a theory of finite rank, given a minimal C-internal fibration o
 
 Given an algebraic differential equation of order greater than one, it is shown that if there is any nontrivial algebraic relation amongst any number of distinct nonalgebraic solutions, along with their derivatives, then there is already such a relation between three solutions.
 
-*_Generic planar algebraic vector fields are strongly minimal and disintegrated._ [arXiv](https://arxiv.org/abs/1905.09429) Published in Algebra and Number Theory Vol. 15 (2021) no. 10, pp. 2449–2483.
+* _Generic planar algebraic vector fields are strongly minimal and disintegrated._ [arXiv](https://arxiv.org/abs/1905.09429) Published in Algebra and Number Theory Vol. 15 (2021) no. 10, pp. 2449–2483.
 
 It is shown that complex planar (polynomial) vector fields of degree greater or equal to three are almost always strongly minimal and geometrically trivial. 
 
-*_Rational factors, invariant foliations and algebraic disintegration of compact mixing Anosov flows of dimension 3._ [arXiv](https://arxiv.org/abs/1803.08811) Published in Confluentes Mathematici Vol. 12 (2020) no. 2, pp. 49–78.
+* _Rational factors, invariant foliations and algebraic disintegration of compact mixing Anosov flows of dimension 3._ [arXiv](https://arxiv.org/abs/1803.08811) Published in Confluentes Mathematici Vol. 12 (2020) no. 2, pp. 49–78.
 
 It is shown that a complex differential equation of dimension three which induces on some compact connected component of the real locus a mixing Anosov flow of dimension three is semiminimal and geometrically trivial. 
 
-*_Differential fields and geodesic flows II - Geodesic flows of pseudo-Riemannian algebraic varieties_ [arXiv](https://arxiv.org/abs/1703.02890) Published in Israel Journal Math. Vol 230 (2019) no. 2, pp. 527–561.
+* _Differential fields and geodesic flows II - Geodesic flows of pseudo-Riemannian algebraic varieties_ [arXiv](https://arxiv.org/abs/1703.02890) Published in Israel Journal Math. Vol 230 (2019) no. 2, pp. 527–561.
+
+It is shown that the generic type of the geodesic differential equations describing a compact real-algebraic manifold of negative curvature is orthogonal to the constants. Existence of such real-algebraic manifolds is established.
 
 * _Differential fields and geodesic flows I - Orthogonality to the constants for autonomous differential equations [arXiv](https://arxiv.org/abs/1612.06222)_ (in french) [arXiv](https://arxiv.org/abs/1612.06222) Published in Bulletin de la Société Mathématiques de France Vol 148 (2020) no. 3, pp. 529–595.
 
-
+It is shown that a complex differential equation of dimension three which induces on some compact connected component of the real locus a weakly mixing topological flow is orthogonal to the constants.
 
 
 
