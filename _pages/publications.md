@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-*_Integration in finite terms and exponentially algebraic functions_ with Jonathan Kirby, [arXiv] (https://arxiv.org/abs/2510.26248), 48 pages.
+* _Integration in finite terms and exponentially algebraic functions_ with Jonathan Kirby, [arXiv](https://arxiv.org/abs/2510.26248), 48 pages.
 
 We generalize several classical results on the problem of integration in finite terms to the class of exponentially algebraic functions. They are the holomorphic functions definable in the structure obtained by expanding semi-algebraic geometry with the restricted complex exponential. 
 
