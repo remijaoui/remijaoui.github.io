@@ -5,10 +5,24 @@ author_profile: true
 ---
 
 
-My name is Rémi Jaoui and I am a researcher working in the logic department of the University of Freiburg on the interaction between model theory, a branch of mathematical logic, and differential algebra. 
+My name is Rémi Jaoui and I am a researcher working in the Algebra, Geometry and Logic team of the Camille Jordan Institute in Villeurbanne.  
+
 Here is a recent <a href = "/assets/pdf/CV.pdf"> curriculum vitae </a>.
 
+Here is a short 
 
+## Geometric stability theory
+
+One of my main area of research is geometric stability theory which is a branch of model theory aimed at studying structures (M, ) 
+
+
+By a structure 
+
+For those interested in learning more about geometric stability. 
+
+
+I have some papers which can be considered as papers of "pure" geometric stability theory but even these papers are considered. 
+ 
 ## Autonomous algebraic differential equations
 
 A central object of my research are systems of autonomous algebraic differential equations which are differential equations of the form \\[ P(y,y', \ldots, y^{(n)}) = 0 \\]
