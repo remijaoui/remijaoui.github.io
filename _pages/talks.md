@@ -5,13 +5,17 @@ permalink: /talks/
 author_profile: true
 ---
 
-
 ## On the problem of integration in finite terms for exponentially algebraic functions
 
-I have been working during the last two years with Jonathan Kirby on the problem of integration in finite terms for exponentially algebraic functions. The paper is still in preparation but here are the slides of two talks below summarize the main ideas of this work. 
+I have been working during the last two years with Jonathan Kirby on the problem of integration in finite terms for exponentially algebraic functions. They are the holomorphic functions which can be defined in the o-minimal structure obtained by expanding semialgebraic geometry by the restricted complex exponential. In this [preprint](https://arxiv.org/abs/2510.26248), we generalize several classical results on the problem of integration in finite terms to the class of exponentially algebraic functions.
+
 
 * The [talk]( /assets/pdf/DART2023.pdf) was part of the DART XII conference in Kassel, Germany (April 2024)
 * The [talk]( /assets/pdf/CIRM2024.pdf)  was part of the Model Theory and Applications to Groups and Combinatorics conference in the CIRM (October 2024)
+
+* A recorded lecture given at the Kolchin seminar of differential algebra can be found here:
+
+{% include video id="TrCXspZNeNQ" provider="youtube" %}
 
 
 
