@@ -7,7 +7,7 @@ author_profile: true
 
 My name is Rémi Jaoui and I am a CNRS researcher (chargé de recherche) working in mathematics. 
 
-* I am working in the <a href="http://math.univ-lyon1.fr/?lang=fr"> Institut Camille Jordan </a> Université Claude Bernard Lyon 1.
+* I am working in the <a href="http://math.univ-lyon1.fr/?lang=fr"> Institut Camille Jordan </a> and based in the Université Claude Bernard Lyon 1.
 
 * Themes of research: model theory, differential algebra, functional transcendence, complex algebraic foliations.
 
