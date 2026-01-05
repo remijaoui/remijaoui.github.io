@@ -11,12 +11,19 @@ Information regarding the course Model Theory of differential fields in characte
 
 ## Practical information
 
-The lectures take place on the Fridays from 9am to 12.15am with a fifteen minutes break in the middle in the room Braconnier Séminaire 1.
- 
+The lectures take place on the Fridays from 9am to 12.15am including a fifteen minutes break in the room Braconnier Séminaire 1.
+* Lecture 1 on 09/01/2026. 
+* Lecture 2 on 16/01/2026.  
+* Lecture 3  on 23/01/2026. 
+* Lecture 4  on 30/01/2026.  
+* Lecture 5  on 06/02/2026. 
+* Lecture 6  on 13/02/2026. 
+* Lecture 7  on 06/03/2026.  
+* Lectures 9 on 13/03/2026. 
 
 ## Lecture notes
 
-* Lecture 1. [Motivation](\assets/pdf/Introduction.pdf)
+* Lecture 1. [What is this course about?](\assets/pdf/Introduction.pdf)
 
 
 ## References 
