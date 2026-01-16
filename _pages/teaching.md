@@ -19,11 +19,13 @@ The lectures take place on the Fridays from 9am to 12.15am including a fifteen m
 * Lecture 5  on 06/02/2026. 
 * Lecture 6  on 13/02/2026. 
 * Lecture 7  on 06/03/2026.  
-* Lectures 9 on 13/03/2026. 
+* Lecture 8 on 13/03/2026. 
 
 ## Lecture notes
 
 * Lecture 1. [What is this course about?](\assets/pdf/Introduction.pdf)
+
+* Lecture 2. [Ritt-Raudenbush theory](\assets/pdf/Ritt-theory.pdf)
 
 
 ## References 

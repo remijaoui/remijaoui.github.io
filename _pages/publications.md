@@ -11,13 +11,13 @@ author_profile: true
 
 We generalize several classical results on the problem of integration in finite terms to the class of exponentially algebraic functions. They are the holomorphic functions definable in the structure obtained by expanding semi-algebraic geometry with the restricted complex exponential. 
 
-* _On the density of strongly minimal algebraic vector fields_, [arXiv](https://arxiv.org/abs/2301.06362) , 51 pages (submitted).
+* _On the density of strongly minimal algebraic vector fields_, [arXiv](https://arxiv.org/abs/2301.06362) , 57 pages, to appear in Annales scientifiques de l'ENS.
 
 It is shown that ''most'' complex algebraic vector fields define strongly minimal and geometrically trivial differential equations.  
 
 ## Publications
 
-* _Abelian reduction in differential-algebraic and bimeromorphic geometry_ with Rahim Moosa,  [arXiv](https://arxiv.org/abs/2207.07515) , to appear in Annales de l'institut Fourier (2024). 
+* _Abelian reduction in differential-algebraic and bimeromorphic geometry_ with Rahim Moosa,  [arXiv](https://arxiv.org/abs/2207.07515). Published in Annales de l'Institut Fourier, Volume 75 (2025) no. 4, pp. 1811-1853. 
 
 We prove Galois-theoretic generalizations of several results of Fujiki concerning the biremeromorphic geometry of compact complex manifolds.
 
