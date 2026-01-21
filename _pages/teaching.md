@@ -27,6 +27,8 @@ The lectures take place on the Fridays from 9am to 12.15am including a fifteen m
 
 * Lecture 2. [Ritt-Raudenbush theory](\assets/pdf/Ritt-theory.pdf)
 
+* Lecture 3. [Differentially closed fields](\assets/pdf/DCF.pdf)
+
 
 ## References 
 * David Marker, Model Theory of differential fields (second chapter of the book Model Theory of fields)[ pdf](\assets/pdf/Marker.pdf).
