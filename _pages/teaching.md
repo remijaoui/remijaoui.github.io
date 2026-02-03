@@ -29,6 +29,9 @@ The lectures take place on the Fridays from 9am to 12.15am including a fifteen m
 
 * Lecture 3. [Differentially closed fields](\assets/pdf/DCF.pdf)
 
+* Lecture 4. [Elimination of imaginaries](\assets/pdf/imaginaries.pdf)
+
+* Lecture 5. [Seidenberg's Theorem](\assets/pdf/Seidenberg.pdf)
 
 ## References 
 * David Marker, Model Theory of differential fields (second chapter of the book Model Theory of fields)[ pdf](\assets/pdf/Marker.pdf).
