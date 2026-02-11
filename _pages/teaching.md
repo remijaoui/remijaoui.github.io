@@ -33,6 +33,10 @@ The lectures take place on the Fridays from 9am to 12.15am including a fifteen m
 
 * Lecture 5. [Seidenberg's Theorem](\assets/pdf/Seidenberg.pdf)
 
+* Lecture 6. [Differential forms](\assets/pdf/differential-forms.pdf)
+
+* Homework. [Homework](\assets/pdf/homework.pdf)
+
 ## References 
 * David Marker, Model Theory of differential fields (second chapter of the book Model Theory of fields)[ pdf](\assets/pdf/Marker.pdf).
 * Rosenlicht, On Liouville theory of elementary functions,  Pacific Journal of Mathematics, Vol. 65, No. 2, 1976. [pdf](\assets/pdf/Rosenlicht.pdf).
