@@ -39,6 +39,8 @@ The lectures take place on the Fridays from 9am to 12.15am including a fifteen m
 
 * Lecture 7. [The Frobenius integrability theorem](\assets/pdf/Frobenius.pdf)
 
+* Lecture 8. [The Ax-Schanuel theorem](\assets/pdf/Ax-Schanuel.pdf)
+
 
 
 ## References 
