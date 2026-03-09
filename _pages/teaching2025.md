@@ -44,23 +44,27 @@ More information about the location of each of the rooms can be found <a href="h
 
 ## Oral examination
 
-For the oral examination, you will have to choose and present one of the following subject (out of three randomly picked subjects) in the following list
+For the oral examination, you will be given two subjects in the following list from which you will choose one: 
 
-* Prime differential ideals of differential polynomials (Lecture 2)
-* Radical differential ideals of differential polynomials (Lecture 2)
-* Elimination of quantifiers in the theory of differentially closed fields and consequences (Lecture 3)
-* Elimination of imaginaries in the theory of differentially closed fields (Lecture 3) 
-* The Seidenberg embedding Theorem (Lecture 4)
-* Algebraic properties of differential forms (Lecture 5)
-* The Galois-theoretic proof of the functional Lindermann-Weierstrass Theorem (Lecture 1)
-* The Liouville-Rosenlicht Theorem (Lecture 6)
-* The Ax-Schanuel Theorem (Lecture 6)
+* The Ritt-Raudenbush theorems (Lecture 2)
+* Differentially closed fields and elimination of quantifiers (Lecture 3) 
+* Elimination of imaginaries (Lecture 4) 
+* The Seidenberg embedding Theorem (Lecture 5)
+* Algebraic properties of differential forms (Lecture 6)
+* The Ax-Schanuel Theorem (Lecture 8)
 
-The oral examinations will take place on Tuesday March 26th from 1pm to 6.30pm in room Berthollet 126 (1er étage) based on the following schedule.
-* 1.15pm to 2pm: Youssef
-* 2pm to 2.45pm: Alexandre
-* 2.45pm to 3.30pm: Yoann
-* 3.30pm to 4.15pm: Enzo
-* 4.15pm to 5pm: Quang-Khai
+You will have 20 minutes of preparation (without access to course notes) to prepare a 15 minutes presentation which will be followed by 20 minutes of questions and discussion on the topic you have picked. 
+
+The oral examinations will take place on Thursday March 26th from 9am to 13am and on Friday March 27th from 9am to 12.25am in the basement of the Batiment Braconnier. Previsional schedule: 
+
+* Thursday March 26th from 9am to 9.55am: Lucas
+* Thursday March 26th from 10am to 10.55am: Mathilde
+* Thursday March 26th from 11am to 11.55am: Romain
+* Thursday March 26th from 12am to 12.55am: Nawzad
+
+* Friday March 27th from 8.45am to 9.40am: Pierre-Louis
+* Friday March 27th from 9.40am to 10.35am: Jeremie
+* Friday March 27th from 10.35am to 11.30am: Quentin
+* Friday March 27th from 11.30am to 12.25am: Antonin
 
 Please come 10 minutes before the start of your oral exam.

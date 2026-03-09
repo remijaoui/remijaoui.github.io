@@ -47,3 +47,31 @@ The lectures take place on the Fridays from 9am to 12.15am including a fifteen m
 * Bouscaren E., Model Theory and Algebraic Geometry, Lecture notes in Mathematics <a href="https://link.springer.com/book/10.1007/978-3-540-68521-0"> link </a>.
 
 
+## Oral examination
+
+For the oral examination, you will be given two subjects in the following list from which you will choose one: 
+
+* The Ritt-Raudenbush theorems (Lecture 2)
+* Differentially closed fields and elimination of quantifiers (Lecture 3) 
+* Elimination of imaginaries (Lecture 4) 
+* The Seidenberg embedding Theorem (Lecture 5)
+* Algebraic properties of differential forms (Lecture 6)
+* The Ax-Schanuel Theorem (Lecture 8)
+
+You will have 20 minutes of preparation (without access to course notes) to prepare a 15 minutes presentation which will be followed by 20 minutes of questions and discussion on the topic you have picked. 
+
+The oral examinations will take place on Thursday March 26th from 9am to 13am and on Friday March 27th from 9am to 12.25am in the basement of the Batiment Braconnier. Previsional schedule: 
+
+* Thursday March 26th from 9am to 9.55am: Lucas
+* Thursday March 26th from 10am to 10.55am: Mathilde
+* Thursday March 26th from 11am to 11.55am: Romain
+* Thursday March 26th from 12am to 12.55am: Nawzad
+
+* Friday March 27th from 8.45am to 9.40am: Pierre-Louis
+* Friday March 27th from 9.40am to 10.35am: Jeremie
+* Friday March 27th from 10.35am to 11.30am: Quentin
+* Friday March 27th from 11.30am to 12.25am: Antonin
+
+Please come 10 minutes before the start of your oral exam.
+
+
